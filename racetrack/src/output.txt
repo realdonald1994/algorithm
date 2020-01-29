@@ -1,0 +1,49 @@
+
+Program is running...
+Read File dataset_assignment3/0.txt....Complete
+The start point is (1,3).
+The end point is (25,22).
+The minimum steps is: 7
+Time cost: 145ms.
+Program is running...
+Read File dataset_assignment3/1.txt....Complete
+The start point is (1,9).
+The end point is (25,9).
+The minimum steps is: 7
+Time cost: 307ms.
+Program is running...
+Read File dataset_assignment3/2.txt....Complete
+The start point is (1,3).
+The end point is (25,13).
+The minimum steps is: 7
+Time cost: 270ms.
+Program is running...
+Read File dataset_assignment3/3.txt....Complete
+The start point is (1,7).
+The end point is (25,18).
+The minimum steps is: 7
+Time cost: 215ms.
+Program is running...
+Read File dataset_assignment3/4.txt....Complete
+The start point is (1,11).
+The end point is (25,5).
+The minimum steps is: 8
+Time cost: 99ms.
+Program is running...
+Read File dataset_assignment3/5.txt....Complete
+The start point is (1,21).
+The end point is (25,7).
+The minimum steps is: 7
+Time cost: 150ms.
+Program is running...
+Read File dataset_assignment3/6.txt....Complete
+The start point is (1,8).
+The end point is (25,22).
+The minimum steps is: 8
+Time cost: 183ms.
+Program is running...
+Read File dataset_assignment3/7.txt....Complete
+The start point is (1,24).
+The end point is (25,3).
+The minimum steps is: 7
+Time cost: 125ms.

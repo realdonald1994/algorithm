@@ -1,0 +1,1516 @@
+
+The 1 point is hole
+step 0
+    O 
+   X X 
+  X X X 
+ X X X X 
+X X X X X 
+
+step 1
+    X 
+   O X 
+  O X X 
+ X X X X 
+X X X X X 
+
+step 2
+    X 
+   O X 
+  X O O 
+ X X X X 
+X X X X X 
+
+step 3
+    O 
+   O O 
+  X O X 
+ X X X X 
+X X X X X 
+
+step 4
+    O 
+   X O 
+  O O X 
+ O X X X 
+X X X X X 
+
+step 5
+    O 
+   X X 
+  O O O 
+ O X X O 
+X X X X X 
+
+step 6
+    O 
+   X X 
+  O X O 
+ O O X O 
+X O X X X 
+
+step 7
+    O 
+   X X 
+  O X X 
+ O O O O 
+X O O X X 
+
+step 8
+    O 
+   O X 
+  O O X 
+ O O X O 
+X O O X X 
+
+step 9
+    O 
+   O O 
+  O O O 
+ O O X X 
+X O O X X 
+
+step 10
+    O 
+   O O 
+  O O X 
+ O O X O 
+X O O X O 
+
+step 11
+    O 
+   O O 
+  O O O 
+ O O O O 
+X O X X O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O O 
+X X O O O 
+
+step 13
+    O 
+   O O 
+  O O O 
+ O O O O 
+O O X O O 
+end 
+the total step  is 13
+Time cost: 809ms.
+The 2 point is hole
+step 0
+    X 
+   O X 
+  X X X 
+ X X X X 
+X X X X X 
+
+step 1
+    X 
+   X X 
+  O X X 
+ O X X X 
+X X X X X 
+
+step 2
+    O 
+   O X 
+  X X X 
+ O X X X 
+X X X X X 
+
+step 3
+    O 
+   X X 
+  X O X 
+ O X O X 
+X X X X X 
+
+step 4
+    O 
+   O X 
+  O O X 
+ X X O X 
+X X X X X 
+
+step 5
+    O 
+   O X 
+  X O X 
+ O X O X 
+O X X X X 
+
+step 6
+    O 
+   O X 
+  X X X 
+ O O O X 
+O O X X X 
+
+step 7
+    O 
+   O O 
+  X O X 
+ O X O X 
+O O X X X 
+
+step 8
+    O 
+   O X 
+  X O O 
+ O X O O 
+O O X X X 
+
+step 9
+    O 
+   O X 
+  X O O 
+ O X O O 
+O X O O X 
+
+step 10
+    O 
+   O X 
+  X X O 
+ O O O O 
+O O O O X 
+
+step 11
+    O 
+   O X 
+  O O X 
+ O O O O 
+O O O O X 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O X 
+O O O O X 
+
+step 13
+    O 
+   O O 
+  O O X 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 1092ms.
+The 3 point is hole
+step 0
+    X 
+   X O 
+  X X X 
+ X X X X 
+X X X X X 
+
+step 1
+    X 
+   X X 
+  X X O 
+ X X X O 
+X X X X X 
+
+step 2
+    O 
+   X O 
+  X X X 
+ X X X O 
+X X X X X 
+
+step 3
+    O 
+   X X 
+  X O X 
+ X O X O 
+X X X X X 
+
+step 4
+    O 
+   X O 
+  X O O 
+ X O X X 
+X X X X X 
+
+step 5
+    O 
+   X O 
+  X X O 
+ X O O X 
+X X X O X 
+
+step 6
+    O 
+   O O 
+  X O O 
+ X O X X 
+X X X O X 
+
+step 7
+    O 
+   X O 
+  O O O 
+ O O X X 
+X X X O X 
+
+step 8
+    O 
+   X O 
+  O O O 
+ O X O O 
+X X X O X 
+
+step 9
+    O 
+   X O 
+  O O O 
+ O X O O 
+X O O X X 
+
+step 10
+    O 
+   X O 
+  O O O 
+ O X O O 
+X O X O O 
+
+step 11
+    O 
+   X O 
+  X O O 
+ O O O O 
+X O O O O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ X O O O 
+X O O O O 
+
+step 13
+    O 
+   O O 
+  X O O 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 1467ms.
+The 4 point is hole
+step 0
+    X 
+   X X 
+  O X X 
+ X X X X 
+X X X X X 
+
+step 1
+    O 
+   O X 
+  X X X 
+ X X X X 
+X X X X X 
+
+step 2
+    X 
+   O O 
+  X X O 
+ X X X X 
+X X X X X 
+
+step 3
+    X 
+   O O 
+  O O X 
+ X X X X 
+X X X X X 
+
+step 4
+    X 
+   O X 
+  O O O 
+ X X X O 
+X X X X X 
+
+step 5
+    O 
+   O O 
+  O O X 
+ X X X O 
+X X X X X 
+
+step 6
+    O 
+   O O 
+  X O X 
+ X O X O 
+X X O X X 
+
+step 7
+    O 
+   X O 
+  O O X 
+ O O X O 
+X X O X X 
+
+step 8
+    O 
+   X O 
+  O O X 
+ O O X O 
+X X X O O 
+
+step 9
+    O 
+   X O 
+  O O X 
+ O O X O 
+X O O X O 
+
+step 10
+    O 
+   X O 
+  O X X 
+ O O O O 
+X O O O O 
+
+step 11
+    O 
+   X O 
+  X O O 
+ O O O O 
+X O O O O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ X O O O 
+X O O O O 
+
+step 13
+    O 
+   O O 
+  X O O 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 2664ms.
+The 5 point is hole
+step 0
+    X 
+   X X 
+  X O X 
+ X X X X 
+X X X X X 
+
+step 1
+    X 
+   X X 
+  X X X 
+ X O X X 
+X O X X X 
+
+step 2
+    X 
+   X X 
+  X X X 
+ X X O O 
+X O X X X 
+
+step 3
+    X 
+   O X 
+  X O X 
+ X X X O 
+X O X X X 
+
+step 4
+    X 
+   O O 
+  X O O 
+ X X X X 
+X O X X X 
+
+step 5
+    X 
+   X O 
+  O O O 
+ O X X X 
+X O X X X 
+
+step 6
+    O 
+   O O 
+  X O O 
+ O X X X 
+X O X X X 
+
+step 7
+    O 
+   O O 
+  X O O 
+ O X X X 
+X X O O X 
+
+step 8
+    O 
+   O O 
+  O O O 
+ O O X X 
+X X X O X 
+
+step 9
+    O 
+   O O 
+  O O O 
+ O O X X 
+X O O X X 
+
+step 10
+    O 
+   O O 
+  O O X 
+ O O X O 
+X O O X O 
+
+step 11
+    O 
+   O O 
+  O O O 
+ O O O O 
+X O X X O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O O 
+X X O O O 
+
+step 13
+    O 
+   O O 
+  O O O 
+ O O O O 
+O O X O O 
+end 
+the total step  is 13
+Time cost: 2833ms.
+The 6 point is hole
+step 0
+    X 
+   X X 
+  X X O 
+ X X X X 
+X X X X X 
+
+step 1
+    O 
+   X O 
+  X X X 
+ X X X X 
+X X X X X 
+
+step 2
+    X 
+   O O 
+  O X X 
+ X X X X 
+X X X X X 
+
+step 3
+    X 
+   O O 
+  X O O 
+ X X X X 
+X X X X X 
+
+step 4
+    X 
+   X O 
+  O O O 
+ O X X X 
+X X X X X 
+
+step 5
+    O 
+   O O 
+  X O O 
+ O X X X 
+X X X X X 
+
+step 6
+    O 
+   O O 
+  X X O 
+ O O X X 
+X O X X X 
+
+step 7
+    O 
+   O O 
+  O O X 
+ O O X X 
+X O X X X 
+
+step 8
+    O 
+   O X 
+  O O O 
+ O O X O 
+X O X X X 
+
+step 9
+    O 
+   O X 
+  O O O 
+ O O X O 
+X X O O X 
+
+step 10
+    O 
+   O X 
+  O O O 
+ O O X O 
+O O X O X 
+
+step 11
+    O 
+   O X 
+  O O X 
+ O O O O 
+O O O O X 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O X 
+O O O O X 
+
+step 13
+    O 
+   O O 
+  O O X 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 3921ms.
+The 7 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ O X X X 
+X X X X X 
+
+step 1
+    X 
+   O X 
+  O X X 
+ X X X X 
+X X X X X 
+
+step 2
+    X 
+   O X 
+  X O O 
+ X X X X 
+X X X X X 
+
+step 3
+    O 
+   O O 
+  X O X 
+ X X X X 
+X X X X X 
+
+step 4
+    O 
+   X O 
+  O O X 
+ O X X X 
+X X X X X 
+
+step 5
+    O 
+   X X 
+  O O O 
+ O X X O 
+X X X X X 
+
+step 6
+    O 
+   X X 
+  O X O 
+ O O X O 
+X O X X X 
+
+step 7
+    O 
+   X X 
+  O X X 
+ O O O O 
+X O O X X 
+
+step 8
+    O 
+   O X 
+  O O X 
+ O O X O 
+X O O X X 
+
+step 9
+    O 
+   O O 
+  O O O 
+ O O X X 
+X O O X X 
+
+step 10
+    O 
+   O O 
+  O O X 
+ O O X O 
+X O O X O 
+
+step 11
+    O 
+   O O 
+  O O O 
+ O O O O 
+X O X X O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O O 
+X X O O O 
+
+step 13
+    O 
+   O O 
+  O O O 
+ O O O O 
+O O X O O 
+end 
+the total step  is 13
+Time cost: 4176ms.
+The 8 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X O X X 
+X X X X X 
+
+step 1
+    X 
+   X O 
+  X O X 
+ X X X X 
+X X X X X 
+
+step 2
+    X 
+   X X 
+  X O O 
+ X X X O 
+X X X X X 
+
+step 3
+    X 
+   X X 
+  X O X 
+ X X O O 
+X X O X X 
+
+step 4
+    X 
+   X O 
+  X O O 
+ X X O X 
+X X O X X 
+
+step 5
+    X 
+   X O 
+  X O O 
+ O O X X 
+X X O X X 
+
+step 6
+    X 
+   O O 
+  O O O 
+ X O X X 
+X X O X X 
+
+step 7
+    X 
+   O O 
+  X O O 
+ O O X X 
+O X O X X 
+
+step 8
+    X 
+   O O 
+  X O O 
+ O O X X 
+O X X O O 
+
+step 9
+    X 
+   O O 
+  X O O 
+ O O X X 
+O O O X O 
+
+step 10
+    X 
+   O O 
+  X X O 
+ O O O X 
+O O O O O 
+
+step 11
+    X 
+   O O 
+  O O X 
+ O O O X 
+O O O O O 
+
+step 12
+    X 
+   O X 
+  O O O 
+ O O O O 
+O O O O O 
+
+step 13
+    O 
+   O O 
+  O O X 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 4303ms.
+The 9 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X X O X 
+X X X X X 
+
+step 1
+    X 
+   O X 
+  X O X 
+ X X X X 
+X X X X X 
+
+step 2
+    X 
+   X X 
+  O O X 
+ O X X X 
+X X X X X 
+
+step 3
+    X 
+   X X 
+  O X X 
+ O O X X 
+X O X X X 
+
+step 4
+    X 
+   X O 
+  O O X 
+ O X X X 
+X O X X X 
+
+step 5
+    X 
+   X X 
+  O O O 
+ O X X O 
+X O X X X 
+
+step 6
+    O 
+   X O 
+  O O X 
+ O X X O 
+X O X X X 
+
+step 7
+    O 
+   X O 
+  O O X 
+ O X X O 
+X X O O X 
+
+step 8
+    O 
+   X O 
+  O O O 
+ O X O O 
+X X X O X 
+
+step 9
+    O 
+   X O 
+  O O O 
+ O X O O 
+X O O X X 
+
+step 10
+    O 
+   X O 
+  O O O 
+ O X O O 
+X O X O O 
+
+step 11
+    O 
+   X O 
+  X O O 
+ O O O O 
+X O O O O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ X O O O 
+X O O O O 
+
+step 13
+    O 
+   O O 
+  X O O 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 4481ms.
+The 10 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X X X O 
+X X X X X 
+
+step 1
+    X 
+   X O 
+  X X O 
+ X X X X 
+X X X X X 
+
+step 2
+    X 
+   X O 
+  O O X 
+ X X X X 
+X X X X X 
+
+step 3
+    O 
+   O O 
+  X O X 
+ X X X X 
+X X X X X 
+
+step 4
+    O 
+   X O 
+  O O X 
+ O X X X 
+X X X X X 
+
+step 5
+    O 
+   X X 
+  O O O 
+ O X X O 
+X X X X X 
+
+step 6
+    O 
+   X X 
+  O X O 
+ O O X O 
+X O X X X 
+
+step 7
+    O 
+   X X 
+  O X X 
+ O O O O 
+X O O X X 
+
+step 8
+    O 
+   O X 
+  O O X 
+ O O X O 
+X O O X X 
+
+step 9
+    O 
+   O O 
+  O O O 
+ O O X X 
+X O O X X 
+
+step 10
+    O 
+   O O 
+  O O X 
+ O O X O 
+X O O X O 
+
+step 11
+    O 
+   O O 
+  O O O 
+ O O O O 
+X O X X O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O O 
+X X O O O 
+
+step 13
+    O 
+   O O 
+  O O O 
+ O O O O 
+O O X O O 
+end 
+the total step  is 13
+Time cost: 4788ms.
+The 11 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X X X X 
+O X X X X 
+
+step 1
+    X 
+   X X 
+  O X X 
+ O X X X 
+X X X X X 
+
+step 2
+    O 
+   O X 
+  X X X 
+ O X X X 
+X X X X X 
+
+step 3
+    O 
+   X X 
+  X O X 
+ O X O X 
+X X X X X 
+
+step 4
+    O 
+   O X 
+  O O X 
+ X X O X 
+X X X X X 
+
+step 5
+    O 
+   O X 
+  X O X 
+ O X O X 
+O X X X X 
+
+step 6
+    O 
+   O X 
+  X X X 
+ O O O X 
+O O X X X 
+
+step 7
+    O 
+   O O 
+  X O X 
+ O X O X 
+O O X X X 
+
+step 8
+    O 
+   O X 
+  X O O 
+ O X O O 
+O O X X X 
+
+step 9
+    O 
+   O X 
+  X O O 
+ O X O O 
+O X O O X 
+
+step 10
+    O 
+   O X 
+  X X O 
+ O O O O 
+O O O O X 
+
+step 11
+    O 
+   O X 
+  O O X 
+ O O O O 
+O O O O X 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O X 
+O O O O X 
+
+step 13
+    O 
+   O O 
+  O O X 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 5322ms.
+The 12 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X X X X 
+X O X X X 
+
+step 1
+    X 
+   X X 
+  X X X 
+ X X X X 
+X X O O X 
+
+step 2
+    X 
+   X X 
+  O X X 
+ X O X X 
+X X X O X 
+
+step 3
+    O 
+   O X 
+  X X X 
+ X O X X 
+X X X O X 
+
+step 4
+    O 
+   O O 
+  X O X 
+ X X X X 
+X X X O X 
+
+step 5
+    O 
+   X O 
+  O O X 
+ O X X X 
+X X X O X 
+
+step 6
+    O 
+   X X 
+  O O O 
+ O X X O 
+X X X O X 
+
+step 7
+    O 
+   X X 
+  O X O 
+ O O X O 
+X O X O X 
+
+step 8
+    O 
+   X X 
+  O X X 
+ O O O O 
+X O O O X 
+
+step 9
+    O 
+   X O 
+  O X O 
+ O O O X 
+X O O O X 
+
+step 10
+    O 
+   X O 
+  O X X 
+ O O O O 
+X O O O O 
+
+step 11
+    O 
+   X O 
+  X O O 
+ O O O O 
+X O O O O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ X O O O 
+X O O O O 
+
+step 13
+    O 
+   O O 
+  X O O 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 5601ms.
+The 13 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X X X X 
+X X O X X 
+
+step 1
+    X 
+   X X 
+  O X X 
+ X O X X 
+X X X X X 
+
+step 2
+    O 
+   O X 
+  X X X 
+ X O X X 
+X X X X X 
+
+step 3
+    O 
+   O O 
+  X O X 
+ X X X X 
+X X X X X 
+
+step 4
+    O 
+   X O 
+  O O X 
+ O X X X 
+X X X X X 
+
+step 5
+    O 
+   X X 
+  O O O 
+ O X X O 
+X X X X X 
+
+step 6
+    O 
+   X X 
+  O X O 
+ O O X O 
+X O X X X 
+
+step 7
+    O 
+   X X 
+  O X X 
+ O O O O 
+X O O X X 
+
+step 8
+    O 
+   O X 
+  O O X 
+ O O X O 
+X O O X X 
+
+step 9
+    O 
+   O O 
+  O O O 
+ O O X X 
+X O O X X 
+
+step 10
+    O 
+   O O 
+  O O X 
+ O O X O 
+X O O X O 
+
+step 11
+    O 
+   O O 
+  O O O 
+ O O O O 
+X O X X O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O O 
+X X O O O 
+
+step 13
+    O 
+   O O 
+  O O O 
+ O O O O 
+O O X O O 
+end 
+the total step  is 13
+Time cost: 6849ms.
+The 14 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X X X X 
+X X X O X 
+
+step 1
+    X 
+   X X 
+  X X X 
+ X X X X 
+X O O X X 
+
+step 2
+    X 
+   X X 
+  O X X 
+ X O X X 
+X O X X X 
+
+step 3
+    O 
+   O X 
+  X X X 
+ X O X X 
+X O X X X 
+
+step 4
+    O 
+   O O 
+  X O X 
+ X X X X 
+X O X X X 
+
+step 5
+    O 
+   X O 
+  O O X 
+ O X X X 
+X O X X X 
+
+step 6
+    O 
+   X X 
+  O O O 
+ O X X O 
+X O X X X 
+
+step 7
+    O 
+   X X 
+  X O O 
+ O O X O 
+X O O X X 
+
+step 8
+    O 
+   O X 
+  O O O 
+ X O X O 
+X O O X X 
+
+step 9
+    O 
+   O X 
+  X O O 
+ O O X O 
+O O O X X 
+
+step 10
+    O 
+   O X 
+  X X O 
+ O O O O 
+O O O O X 
+
+step 11
+    O 
+   O X 
+  O O X 
+ O O O O 
+O O O O X 
+
+step 12
+    O 
+   O O 
+  O O O 
+ O O O X 
+O O O O X 
+
+step 13
+    O 
+   O O 
+  O O X 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 7109ms.
+The 15 point is hole
+step 0
+    X 
+   X X 
+  X X X 
+ X X X X 
+X X X X O 
+
+step 1
+    X 
+   X X 
+  X X O 
+ X X X O 
+X X X X X 
+
+step 2
+    O 
+   X O 
+  X X X 
+ X X X O 
+X X X X X 
+
+step 3
+    O 
+   X X 
+  X O X 
+ X O X O 
+X X X X X 
+
+step 4
+    O 
+   X O 
+  X O O 
+ X O X X 
+X X X X X 
+
+step 5
+    O 
+   X O 
+  X X O 
+ X O O X 
+X X X O X 
+
+step 6
+    O 
+   O O 
+  X O O 
+ X O X X 
+X X X O X 
+
+step 7
+    O 
+   X O 
+  O O O 
+ O O X X 
+X X X O X 
+
+step 8
+    O 
+   X O 
+  O O O 
+ O X O O 
+X X X O X 
+
+step 9
+    O 
+   X O 
+  O O O 
+ O X O O 
+X O O X X 
+
+step 10
+    O 
+   X O 
+  O O O 
+ O X O O 
+X O X O O 
+
+step 11
+    O 
+   X O 
+  X O O 
+ O O O O 
+X O O O O 
+
+step 12
+    O 
+   O O 
+  O O O 
+ X O O O 
+X O O O O 
+
+step 13
+    O 
+   O O 
+  X O O 
+ O O O O 
+O O O O O 
+end 
+the total step  is 13
+Time cost: 7630ms.

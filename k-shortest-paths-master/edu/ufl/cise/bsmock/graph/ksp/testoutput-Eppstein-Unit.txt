@@ -1,0 +1,132 @@
+ complete.
+Computing the 10 shortest paths from [Paris] to [Shanghai] using Eppstein's algorithm...  complete.
+Operation took 0.019 seconds.
+k) cost: [path]
+1) 8.0: [Paris-Madrid-Zurich-Rome-Mumbai-Delhi-Bangkok-Hong_Kong-Shanghai]
+3) 8.0: [Paris-Madrid-Zurich-Rome-Mumbai-Singapore-Sydney-Hong_Kong-Shanghai]
+5) 8.0: [Paris-Madrid-Zurich-Rome-Istanbul-Delhi-Bangkok-Hong_Kong-Shanghai]
+7) 10.0: [Paris-Madrid-Zurich-Rome-Mumbai-Singapore-Sydney-Hong_Kong-Shanghai-Beijing-Shanghai]
+9) 10.0: [Paris-Madrid-Zurich-Rome-Istanbul-Delhi-Bangkok-Hong_Kong-Shanghai-Beijing-Shanghai]
+11) 10.0: [Paris-Madrid-Zurich-Rome-Mumbai-Delhi-Bangkok-Hong_Kong-Shanghai-Beijing-Shanghai]
+13) 10.0: [Paris-Madrid-Zurich-Rome-Vienna-Rome-Mumbai-Delhi-Bangkok-Hong_Kong-Shanghai]
+15) 10.0: [Paris-Madrid-Zurich-Rome-Mumbai-Singapore-Sydney-Hong_Kong-Bangkok-Hong_Kong-Shanghai]
+17) 10.0: [Paris-Madrid-Zurich-Rome-Mumbai-Singapore-Sydney-Singapore-Sydney-Hong_Kong-Shanghai]
+19) 10.0: [Paris-Madrid-Zurich-Rome-Zurich-Rome-Mumbai-Delhi-Bangkok-Hong_Kong-Shanghai] complete.
+Computing the 10 shortest paths from [Santa_Barbara ] to [Shanghai] using Eppstein's algorithm...  complete.
+Computing the 10 shortest paths from [Santa_Barbara] to [Shanghai] using Eppstein's algorithm...  complete.
+Operation took 0.013 seconds.
+k) cost: [path]
+1) 5.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Hong_Kong-Shanghai]
+3) 5.0: [Santa_Barbara-Los_Angeles-Honolulu-Taipei-Hong_Kong-Shanghai]
+5) 6.0: [Santa_Barbara-Los_Angeles-Fresno-Oakland-Taipei-Hong_Kong-Shanghai]
+7) 6.0: [Santa_Barbara-San_Jose-San_Francisco-Oakland-Taipei-Hong_Kong-Shanghai]
+9) 7.0: [Santa_Barbara-Los_Angeles-Fresno-Los_Angeles-Honolulu-Sydney-Hong_Kong-Shanghai]
+11) 7.0: [Santa_Barbara-San_Jose-Santa_Barbara-Los_Angeles-Honolulu-Sydney-Hong_Kong-Shanghai]
+13) 7.0: [Santa_Barbara-Los_Angeles-Fresno-Los_Angeles-Honolulu-Taipei-Hong_Kong-Shanghai]
+15) 7.0: [Santa_Barbara-San_Jose-Santa_Barbara-Los_Angeles-Honolulu-Taipei-Hong_Kong-Shanghai]
+17) 7.0: [Santa_Barbara-Los_Angeles-Honolulu-Los_Angeles-Honolulu-Sydney-Hong_Kong-Shanghai]
+19) 7.0: [Santa_Barbara-Los_Angeles-San_Diego-Los_Angeles-Honolulu-Sydney-Hong_Kong-Shanghai] complete.
+Computing the 10 shortest paths from [Santa_Barbara] to [Paris] using Eppstein's algorithm...  complete.
+Operation took 0.019 seconds.
+k) cost: [path]
+1) 9.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris]
+3) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris-Madrid-Paris]
+5) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris-London-Paris]
+7) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Zurich-Madrid-Paris]
+9) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris-Miami-Paris]
+11) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Rome-Zurich-Madrid-Paris]
+13) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Rome-Zurich-Madrid-Paris]
+15) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Taipei-Hong_Kong-Bangkok-Delhi-Mumbai-Rome-Zurich-Madrid-Paris]
+17) 11.0: [Santa_Barbara-Los_Angeles-Fresno-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris]
+19) 11.0: [Santa_Barbara-Los_Angeles-Honolulu-Taipei-Hong_Kong-Bangkok-Delhi-Istanbul-Rome-Zurich-Madrid-Paris] complete.
+Computing the 10 shortest paths from [Zurich] to [Tokyo] using Eppstein's algorithm...  complete.
+Operation took 0.016 seconds.
+k) cost: [path]
+1) 7.0: [Zurich-Rome-Istanbul-Delhi-Bangkok-Hong_Kong-Taipei-Tokyo]
+3) 7.0: [Zurich-Rome-Mumbai-Singapore-Sydney-Honolulu-Taipei-Tokyo]
+5) 7.0: [Zurich-Rome-Mumbai-Singapore-Sydney-Hong_Kong-Taipei-Tokyo]
+7) 7.0: [Zurich-Rome-Mumbai-Delhi-Bangkok-Hong_Kong-Taipei-Tokyo]
+9) 9.0: [Zurich-Rome-Mumbai-Singapore-Sydney-Hong_Kong-Taipei-Tokyo-Portland-Tokyo]
+11) 9.0: [Zurich-Rome-Mumbai-Delhi-Bangkok-Hong_Kong-Taipei-Tokyo-Portland-Tokyo]
+13) 9.0: [Zurich-Rome-Vienna-Rome-Istanbul-Delhi-Bangkok-Hong_Kong-Taipei-Tokyo]
+15) 9.0: [Zurich-Rome-Mumbai-Singapore-Sydney-Singapore-Sydney-Honolulu-Taipei-Tokyo]
+17) 9.0: [Zurich-Rome-Mumbai-Singapore-Sydney-Honolulu-Sydney-Honolulu-Taipei-Tokyo]
+19) 9.0: [Zurich-Rome-Mumbai-Singapore-Sydney-Hong_Kong-Taipei-Tokyo-Seoul-Tokyo] complete.
+Computing the 10 shortest paths from [New_York] to [Warsaw] using Eppstein's algorithm...  complete.
+Operation took 0.017 seconds.
+k) cost: [path]
+1) 3.0: [New_York-Amsterdam-Berlin-Warsaw]
+3) 4.0: [New_York-Amsterdam-Frankfurt-Vienna-Warsaw]
+5) 5.0: [New_York-Amsterdam-Brussels-Amsterdam-Berlin-Warsaw]
+7) 5.0: [New_York-Amsterdam-Frankfurt-Amsterdam-Berlin-Warsaw]
+9) 5.0: [New_York-Amsterdam-Berlin-Amsterdam-Berlin-Warsaw]
+11) 5.0: [New_York-Amsterdam-New_York-Amsterdam-Berlin-Warsaw]
+13) 5.0: [New_York-Amsterdam-Berlin-Warsaw-Berlin-Warsaw]
+15) 5.0: [New_York-Scranton-New_York-Amsterdam-Berlin-Warsaw]
+17) 5.0: [New_York-Amsterdam-Berlin-Warsaw-Bucharest-Warsaw]
+19) 5.0: [New_York-Newark-New_York-Amsterdam-Berlin-Warsaw] complete.
+Computing the 10 shortest paths from [Tokyo] to [Paris] using Eppstein's algorithm...  complete.
+Operation took 0.015 seconds.
+k) cost: [path]
+1) 9.0: [Tokyo-Taipei-Hong_Kong-Bangkok-Delhi-Mumbai-Rome-Zurich-Madrid-Paris]
+3) 9.0: [Tokyo-Taipei-Hong_Kong-Bangkok-Delhi-Istanbul-Rome-Zurich-Madrid-Paris]
+5) 9.0: [Tokyo-Taipei-Hong_Kong-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris]
+7) 9.0: [Tokyo-Taipei-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris]
+9) 11.0: [Tokyo-Taipei-Hong_Kong-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris-Madrid-Paris]
+11) 11.0: [Tokyo-Taipei-Honolulu-Sydney-Singapore-Mumbai-Rome-Zurich-Madrid-Paris-Madrid-Paris]
+13) 11.0: [Tokyo-Taipei-Hong_Kong-Bangkok-Delhi-Istanbul-Rome-Zurich-Madrid-Paris-Madrid-Paris]
+15) 11.0: [Tokyo-Taipei-Hong_Kong-Taipei-Hong_Kong-Bangkok-Delhi-Mumbai-Rome-Zurich-Madrid-Paris]
+17) 11.0: [Tokyo-Taipei-Hong_Kong-Bangkok-Delhi-Mumbai-Rome-Vienna-Rome-Zurich-Madrid-Paris]
+19) 11.0: [Tokyo-Taipei-Hong_Kong-Taipei-Hong_Kong-Bangkok-Delhi-Istanbul-Rome-Zurich-Madrid-Paris] complete.
+Computing the 10 shortest paths from [Los_Angeles] to [New_York] using Eppstein's algorithm...  complete.
+Operation took 0.016 seconds.
+k) cost: [path]
+1) 9.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-New_York]
+3) 10.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Warsaw-Berlin-Amsterdam-New_York]
+5) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Rome-Vienna-Frankfurt-Amsterdam-New_York]
+7) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Warsaw-Vienna-Frankfurt-Amsterdam-New_York]
+9) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-New_York-Amsterdam-New_York]
+11) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Vienna-Frankfurt-Amsterdam-New_York]
+13) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-Brussels-Amsterdam-New_York]
+15) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Istanbul-Bucharest-Warsaw-Berlin-Amsterdam-New_York]
+17) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Delhi-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-New_York]
+19) 11.0: [Los_Angeles-Honolulu-Sydney-Singapore-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-New_York] complete.
+Computing the 10 shortest paths from [Tampa] to [Bucharest] using Eppstein's algorithm...  complete.
+Operation took 0.018 seconds.
+k) cost: [path]
+1) 7.0: [Tampa-Miami-Paris-Madrid-Zurich-Rome-Istanbul-Bucharest]
+3) 8.0: [Tampa-Miami-Paris-Madrid-Zurich-Rome-Vienna-Warsaw-Bucharest]
+5) 8.0: [Tampa-Miami-Paris-London-Brussels-Amsterdam-Berlin-Warsaw-Bucharest]
+7) 9.0: [Tampa-Miami-Paris-Madrid-Zurich-Rome-Vienna-Rome-Istanbul-Bucharest]
+9) 9.0: [Tampa-Miami-Paris-London-Brussels-Amsterdam-Frankfurt-Vienna-Warsaw-Bucharest]
+11) 9.0: [Tampa-Miami-Paris-Madrid-Zurich-Rome-Istanbul-Delhi-Istanbul-Bucharest]
+13) 9.0: [Tampa-Miami-Paris-Miami-Paris-Madrid-Zurich-Rome-Istanbul-Bucharest]
+15) 9.0: [Tampa-Miami-Paris-Madrid-Zurich-Rome-Istanbul-Bucharest-Warsaw-Bucharest]
+17) 9.0: [Tampa-Miami-Paris-Madrid-Zurich-Rome-Mumbai-Rome-Istanbul-Bucharest]
+19) 9.0: [Tampa-Miami-Paris-Madrid-Zurich-Rome-Istanbul-Bucharest-Istanbul-Bucharest] complete.
+Computing the 10 shortest paths from [Denver] to [Tampa] using Eppstein's algorithm...  complete.
+Operation took 0.019 seconds.
+k) cost: [path]
+1) 7.0: [Denver-Albuquerque-Dallas-Houston-Baton_Rouge-New_Orleans-Tallahassee-Tampa]
+3) 9.0: [Denver-Albuquerque-Dallas-Houston-Baton_Rouge-New_Orleans-Tallahassee-Tampa-Tallahassee-Tampa]
+5) 9.0: [Denver-Albuquerque-Dallas-Houston-Baton_Rouge-New_Orleans-Tallahassee-Tampa-Miami-Tampa]
+7) 9.0: [Denver-Albuquerque-Dallas-Houston-Baton_Rouge-New_Orleans-Tallahassee-New_Orleans-Tallahassee-Tampa]
+9) 9.0: [Denver-Albuquerque-Dallas-Houston-Baton_Rouge-New_Orleans-Baton_Rouge-New_Orleans-Tallahassee-Tampa]
+11) 9.0: [Denver-Albuquerque-Dallas-Houston-Baton_Rouge-Houston-Baton_Rouge-New_Orleans-Tallahassee-Tampa]
+13) 9.0: [Denver-Albuquerque-Dallas-Houston-Austin-Houston-Baton_Rouge-New_Orleans-Tallahassee-Tampa]
+15) 9.0: [Denver-Albuquerque-Denver-Albuquerque-Dallas-Houston-Baton_Rouge-New_Orleans-Tallahassee-Tampa]
+17) 9.0: [Denver-Omaha-Kansas_City-St_Louis-Louisville-Nashville-Birmingham-New_Orleans-Tallahassee-Tampa]
+19) 9.0: [Denver-Albuquerque-Dallas-Houston-Dallas-Houston-Baton_Rouge-New_Orleans-Tallahassee-Tampa] complete.
+Computing the 10 shortest paths from [Las_Vegas] to [New_York] using Eppstein's algorithm...  complete.
+Operation took 0.015 seconds.
+k) cost: [path]
+1) 11.0: [Las_Vegas-Fresno-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-New_York]
+3) 11.0: [Las_Vegas-Salt_Lake_City-Denver-Omaha-Kansas_City-St_Louis-Louisville-Greensboro-Raleigh-Norfolk-Wilmington-New_York]
+5) 11.0: [Las_Vegas-Albuquerque-Dallas-Little_Rock-Memphis-Nashville-Louisville-Greensboro-Raleigh-Norfolk-Wilmington-New_York]
+7) 11.0: [Las_Vegas-Salt_Lake_City-Denver-Omaha-Kansas_City-St_Louis-Louisville-Cincinnati-Columbus-Pittsburgh-Scranton-New_York]
+9) 11.0: [Las_Vegas-Albuquerque-Dallas-Little_Rock-Memphis-Nashville-Louisville-Cincinnati-Columbus-Pittsburgh-Scranton-New_York]
+11) 11.0: [Las_Vegas-Albuquerque-Denver-Omaha-Kansas_City-St_Louis-Louisville-Greensboro-Raleigh-Norfolk-Wilmington-New_York]
+13) 11.0: [Las_Vegas-Albuquerque-Denver-Omaha-Kansas_City-St_Louis-Louisville-Cincinnati-Columbus-Pittsburgh-Scranton-New_York]
+15) 12.0: [Las_Vegas-Fresno-Oakland-Taipei-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-New_York]
+17) 12.0: [Las_Vegas-Phoenix-San_Diego-Los_Angeles-Honolulu-Sydney-Singapore-Mumbai-Rome-Vienna-Frankfurt-Amsterdam-New_York]
+19) 12.0: [Las_Vegas-Albuquerque-Denver-Omaha-Kansas_City-St_Louis-Louisville-Cincinnati-Washington_DC-Baltimore-Philadelphia-Scranton-New_York]
